@@ -42,7 +42,7 @@ This will open your browser to authenticate with your Cloudflare account.
 ### Step 3: Clone or Download This Repository
 
 ```bash
-git clone github.com/vinayakanataraj/email-verifier/
+git clone https://github.com/vinayakanataraj/email-verifier.git
 cd email-verifier
 ```
 
